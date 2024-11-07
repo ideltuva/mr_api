@@ -1,4 +1,4 @@
-package com.api.mr.api.controller;
+package com.api.mr.api.web.controller;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
